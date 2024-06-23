@@ -2,7 +2,7 @@
 
 
 
-![logo](https://github.com/mumal885/design/blob/main/d.png)
+![logo](https://github.com/SumeetPatil7/design-/blob/main/design%20%20%2B/d.png)
 #  design
 This  design is coded in html, css,js.
 
